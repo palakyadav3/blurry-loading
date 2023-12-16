@@ -1,2 +1,2 @@
 # blurry-loading
- Until the images get loaded, a very small version of each image is displayed with a blur filter over it and at last image get clear. 
+It is another image loading library in JavaScript. The library defers the loading of images until everything within the page has been completely loaded.
